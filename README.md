@@ -2,8 +2,6 @@
 -     Avid Runner
 - 🌱 I’m currently learning andriod development
 - 📫 Reach me nnishantnagar@gmail.com
-
-![Visitor Count](https://profile-counter.glitch.me/{nnishantnagar}/count.svg)
 <!---
 nnishantnagar/nnishantnagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
